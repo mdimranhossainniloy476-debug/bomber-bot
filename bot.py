@@ -6,7 +6,7 @@ from aiogram.types import InlineKeyboardMarkup, InlineKeyboardButton, Message, C
 import requests
 
 # তোমার ডিটেইলস
-BOT_TOKEN = "8542056996:AAEJa7Qc5SXTRGeQRw_cnVXjRVx2Qt3TuuA"
+BOT_TOKEN = "8577763220:AAE50gyg0NjwxZC6kTL6E-tPht2Sg5TbI-g"
 CHANNEL_1_ID = "@freeincomezone002"
 CHANNEL_1_LINK = "https://t.me/freeincomezone002"
 CHANNEL_2_ID = "@SAYDUR2147"
